@@ -1,7 +1,7 @@
 Simple Landing Page:
 A clean and modern Landing Page built using HTML and CSS, designed with a soft pink palette (#b56576) and responsive layout using Flexbox. This project demonstrates how to divide sections, arrange columns, and use semantic HTML tags for better structure and readability.
 
-✨ Features
+ Features
 - Soft and elegant color scheme (#b56576)
 
 - Semantic HTML structure (<header>, <section>, <footer>)
@@ -16,7 +16,7 @@ A clean and modern Landing Page built using HTML and CSS, designed with a soft p
 
 
 
-🛠️ Technologies Used
+ Technologies Used
 -HTML5
 
 -CSS3 (Flexbox, Custom Properties)
@@ -26,6 +26,6 @@ landing-page/
 ├── index.html
 └── README.md
 
-🙋‍♀️ Author
+ Author
 -Chaitali Bari
 ( Web Development Intern @CodSoft)
