@@ -23,8 +23,8 @@ A clean and modern Landing Page built using HTML and CSS, designed with a soft p
 
 📁 Project Structure
 landing-page/
-├── index.html
-└── README.md
+ index.html
+ README.md
 
  Author
 -Chaitali Bari
